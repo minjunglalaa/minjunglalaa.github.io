@@ -8,12 +8,12 @@
 # Site settings
 title: Culture Lab Testing
 short_labname: CL
-email: physi5logy@gmail.com
+email: ghdghd2015@snu.ac.kr
 logo: logo.png
 description: > # 다음 줄에 연구실 소개 입력
-  ChungLab of Computational Neuroscience, Seoul National University; 서울대학교 치과대학 정지훈 교수 감각신경 연구실; Gehoon Chung;
+  Culture Lab 문화연구, Seoul National University; 서울대학교 언론정보학과 홍석경 교수 연구실; SK Hong;
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  ChungLab
+github_username:  minjunglalaa
 google-site-verification:
 
 # Build settings
