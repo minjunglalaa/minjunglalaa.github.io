@@ -1,6 +1,7 @@
 overview:
-  - 이 연구실은 아주 좋은 연구실 입니다.
-  - 연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.
+  - 템플렛을 활용하여 테스트를 진행해보았습니다. 
+  - 원본 템플렛은 서울대학교 계산신경과학연구실에서. 
+  - (연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.)
 
 mainFig:
   - frontImg_1.jpg
@@ -8,28 +9,26 @@ mainFig:
   - frontImg_3.jpg
 
 affiliation:
-  - school: 치의학대학원 #단과대학
-    department: 구강생리학교실 #교실
-    program: 신경생물학전공 #전공
+  - school: 사회과학대학 #단과대학
+    department: 언론정보학과 #교실
+    program: 문화연구 #전공
 
   - school: 자연과학대학 #단과대학
     department: #교실
     program: 협동과정 뇌과학전공 #전공
 
   - school: BK21+ #단과대학
-    department: 치의학생명과학사업단
+    department: 언론정보학과 AI어쩌구 사업단
     program: #전공
 
-  - school: 치학연구소 #단과대학
-    department: #교실
-    program:  #전공
 
 address:
-  building: 병원 # 본관/재료/병원/관악 넷중 하나로 입력
-  office: 50x호
-  lab: 50x호
+  building: 관악 # 본관/재료/병원/관악 넷중 하나로 입력
+  office: 64동 4층
+  lab: 413호
 
 phone:
   office: 02-880-xxxx
   lab: 02-880-xxxx
   fax: 02-762-xxxx
+  email: ghdghd2015@snu.ac.kr
