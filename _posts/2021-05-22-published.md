@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 연구실 홈페이지?
-subtitle: Testing with the hompage templates
+title: 선생님 책 출판
+subtitle: "BTS 길 위에서"
 date: 2021/05/22
 fig: https://img2.yna.co.kr/etc/inner/KR/2020/11/27/AKR20201127075500005_01_i_P4.jpg
 link: 
