@@ -13,9 +13,9 @@ affiliation:
     department: 언론정보학과 #교실
     program: 문화연구 #전공
 
-  - school: 자연과학대학 #단과대학
-    department: #교실
-    program: 협동과정 뇌과학전공 #전공
+  - school: 사회과학대학 #단과대학
+    department: 언론정보학과 #교실
+    program: 어쩌구저쩌구 세부전공 #전공
 
   - school: BK21+ #단과대학
     department: 언론정보학과 AI어쩌구 사업단
