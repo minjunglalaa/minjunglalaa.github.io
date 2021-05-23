@@ -1,4 +1,4 @@
-- title: 홈페이지 오픈!!
+- title: 템플렛을 활용한 테스트중
   notice: 공지사항은 _data 폴더 안에 notice.yml 파일에 작성하세요.
   status: open
 
@@ -6,6 +6,6 @@
   notice: 이 공지는 보이지 않습니다. (status가 close 입니다)
   status: close
 
-- title: 학생모집
-  notice: 야심찬 학생 찾아오세요.
+- title: 연구실 데이터 정리해주실 분 구합니다.
+  notice: 아마 csv파일에다가 퍼블리케이션 정리하면 될 것 같아요. 
   status: open
