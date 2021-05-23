@@ -3,7 +3,7 @@ layout: post
 title: 연구실 홈페이지?
 subtitle: Testing with the hompage templates
 date: 2021/05/22
-fig: butter.jpeg
+fig: https://img2.yna.co.kr/etc/inner/KR/2020/11/27/AKR20201127075500005_01_i_P4.jpg
 link: 
 published: true
 ---
